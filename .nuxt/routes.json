@@ -1,0 +1,23 @@
+[
+  {
+    "name": "user-list",
+    "path": "/user-list",
+    "component": "/home/xency/Documents/practice/populateApiNuxt/pages/user-list/index.vue",
+    "chunkName": "pages/user-list/index",
+    "_name": "_3c0ca534"
+  },
+  {
+    "name": "user-list-id",
+    "path": "/user-list/:id",
+    "component": "/home/xency/Documents/practice/populateApiNuxt/pages/user-list/_id/index.vue",
+    "chunkName": "pages/user-list/_id/index",
+    "_name": "_3fd1a551"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/xency/Documents/practice/populateApiNuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_13a0a5d6"
+  }
+]
